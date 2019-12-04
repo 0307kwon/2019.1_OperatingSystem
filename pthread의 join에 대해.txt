@@ -1,0 +1,3 @@
+join을 안해주면
+pthread가 exit할때까지 main에서 기다려 주지않기때문에
+pthread는 끝나지않아도 main 프로그램은 끝나버리는 상황이 발생

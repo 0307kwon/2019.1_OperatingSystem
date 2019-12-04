@@ -1,0 +1,6 @@
+메모리 segment가 
+heap segment는 작은쪽에서 큰쪽으로 차지하고
+stack segment는 큰쪽에서 작은쪽으로 차지한다는 것은 맞지만
+
+heap 주소가 항상 stack 주소보다 작다는 뜻은 아니다 
+운영체제와 상황에 따라 heap주소가 stack 주소보다 클 수 있다.
